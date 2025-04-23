@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# 本项目基于 [原始论文代码链接](https://github.com/cqylunlun/GLASS)，仅用于学习目的，若有侵权请联系删除。
+# 本项目基于 [原始论文代码](https://github.com/cqylunlun/GLASS)，仅用于学习目的，若有侵权请联系删除。
 
 =======
 # GLASS
